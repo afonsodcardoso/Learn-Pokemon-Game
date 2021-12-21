@@ -81,7 +81,7 @@ gFonts = {
 }
 
 gSounds = {
-    ['field-music'] = love.audio.newSource('sounds/field_music.wav'),
+    ['field-music'] = love.audio.newSource("sounds/field_music.wav"),
     ['battle-music'] = love.audio.newSource('sounds/battle_music.mp3'),
     ['blip'] = love.audio.newSource('sounds/blip.wav'),
     ['powerup'] = love.audio.newSource('sounds/powerup.wav'),
